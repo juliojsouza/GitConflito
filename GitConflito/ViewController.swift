@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        // Adoramos café, ou não
         // Teste Conflito
         self.mostrarOla()
     }
